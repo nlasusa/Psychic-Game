@@ -1,5 +1,5 @@
 # Psychic-Game
-This project was the most difficult for me. I definitely resorted back to alot of the class activities/videos/and for-loop references to gain a better understanding. 
+This project was the most difficult yet. I definitely resorted back to alot of the class activities/videos/and for-loop references to gain a better understanding. 
 
 I first created my HTML and my CSS styling. 
 
@@ -11,4 +11,4 @@ I had some difficulty setting up the event key function later in my code and had
 
 I found the window.onload function via google research, similiar to the download ready function shown in class.
 
-
+I set up my functions for user key and used variable html and innerHTML so users guess, wins, losses would show up on page.
